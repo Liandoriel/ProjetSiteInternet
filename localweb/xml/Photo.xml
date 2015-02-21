@@ -1,0 +1,14 @@
+﻿<Photo>
+	<Image>
+		<chemin>"images\photos\1.jpg"</chemin>
+	</Image>
+	<Image>
+		<chemin>"images\photos\2.jpg"</chemin>
+	</Image>
+	<Image>
+		<chemin>"images\photos\3.jpg"</chemin>
+	</Image>
+	<Image>
+		<chemin>"images\photos\4.jpg"</chemin>
+	</Image>
+</Photo>
